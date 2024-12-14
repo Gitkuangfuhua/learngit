@@ -1,0 +1,1 @@
+This is a license file. I want this project is in Apache 2 protocol!
